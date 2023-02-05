@@ -140,7 +140,7 @@ html_short_title = 'Percona Toolkit'
 
 # Path to custom css files. These will override the default css attribute if they exist
 html_css_files = [
-    '_static/css/material.css',
+    'css/material.css',
 ]
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,

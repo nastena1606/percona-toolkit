@@ -12,8 +12,9 @@ html_theme_options = {
     'base_url': 'http://bashtage.github.io/sphinx-material/',
     'repo_url': 'https://github.com/percona/percona-toolkit',
     'repo_name': 'percona/percona-toolkit',
-    'color_accent': 'grey',
-    'color_primary': 'orange',
+    'color_accent': '#3e4875',
+    'color_primary': '#0d184c',
+    'theme_color': '#0d184c',
     'globaltoc_collapse': True,
     'version_dropdown': True
 }
@@ -28,7 +29,7 @@ templates_path = ['../_static/_templates/theme']
 #html_last_updated_fmt = ''
 
 # Path to custom css files. These will override the default css attribute if they exist
-html_css_files = [
-    '../_static/css/material.css',
-]
+#html_css_files = [
+#    'css/material.css',
+#]
 
